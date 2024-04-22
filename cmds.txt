@@ -1,2 +1,13 @@
 git init
 git status
+git add
+git commit -m "first commit"
+git config --global --add user.email "kethan20281a0448@gmail.com"
+git remote add origin add url
+git branch -M main
+git push -u origin main
+git push origin main
+
+
+
+
